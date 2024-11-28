@@ -32,25 +32,5 @@ Run the tests to ensure the contract behaves as expected:
     npx hardhat test
 ```
 
-## PRÁCTICA ANTES DE ARRANCAR
-crear contrato greeter.sol
 
-desplegar:
-npx hardhat compile
 
-habilitar la blockchain local:
-npx hardhat node
-
-Desplegar un contrato en la red local - Greeters.js en ignition/modules:
-
-npx hardhat ignition deploy ./ignition/modules/Greeter.js
-
-## Probar en cuenta local - PASOS
-
-1. ENTRAR A Metamask
-elegir nueva cuenta Custom
-
-http://127.0.0.1:8545/
-31337
-
-https://www.youtube.com/watch?v=eSjHVG8LG4k&t=1s 12.58' 

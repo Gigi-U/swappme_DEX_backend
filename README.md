@@ -45,7 +45,7 @@ Desplegar un contrato en la red local - Greeters.js en ignition/modules:
 
 npx hardhat ignition deploy ./ignition/modules/Greeter.js
 
-## Probar en cuenta local - PASOS
+## Probar en cuenta local - PASOS - (rama_ejercicio_prueba_clase2)
 
 1. ENTRAR A Metamask
 elegir nueva cuenta Custom
